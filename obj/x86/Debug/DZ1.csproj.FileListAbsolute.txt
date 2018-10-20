@@ -1,0 +1,6 @@
+/Users/wht0/Projects/DZ1/DZ1/bin/Debug/DZ1.exe
+/Users/wht0/Projects/DZ1/DZ1/bin/Debug/DZ1.pdb
+/Users/wht0/Projects/DZ1/DZ1/obj/x86/Debug/DZ1.csprojAssemblyReference.cache
+/Users/wht0/Projects/DZ1/DZ1/obj/x86/Debug/DZ1.csproj.CoreCompileInputs.cache
+/Users/wht0/Projects/DZ1/DZ1/obj/x86/Debug/DZ1.exe
+/Users/wht0/Projects/DZ1/DZ1/obj/x86/Debug/DZ1.pdb

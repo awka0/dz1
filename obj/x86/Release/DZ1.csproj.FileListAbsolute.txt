@@ -1,0 +1,3 @@
+/Users/wht0/Projects/DZ1/DZ1/bin/Release/DZ1.exe
+/Users/wht0/Projects/DZ1/DZ1/obj/x86/Release/DZ1.csproj.CoreCompileInputs.cache
+/Users/wht0/Projects/DZ1/DZ1/obj/x86/Release/DZ1.exe
